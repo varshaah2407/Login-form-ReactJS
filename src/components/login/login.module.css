@@ -1,0 +1,14 @@
+.paperStyle {
+    padding: 20px;
+    height: 70vh;
+    width: 330px;
+    margin: 20px auto;
+}
+
+.avatarStyle {
+    background: 'green';
+}
+
+.btnstyle {
+    margin: '8px 0';
+}
